@@ -1194,6 +1194,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 915328649, guid: 87cb6bf19753c3e49bff2eab4f4a3399, type: 3}
+      propertyPath: m_StartingSelectedInteractable
+      value: 
+      objectReference: {fileID: 1928701315}
     - target: {fileID: 520380748191777880, guid: 87cb6bf19753c3e49bff2eab4f4a3399, type: 3}
       propertyPath: m_Mesh
       value: 
@@ -1282,6 +1286,10 @@ PrefabInstance:
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 69659924}
+    - target: {fileID: 2113064535195477981, guid: 87cb6bf19753c3e49bff2eab4f4a3399, type: 3}
+      propertyPath: destination
+      value: Area 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 87cb6bf19753c3e49bff2eab4f4a3399, type: 3}
 --- !u!43 &1546151275
